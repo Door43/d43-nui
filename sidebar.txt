@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[nui:home|Door43 (nui)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-nui|d43-nui repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-nui/archive/master.zip|d43-nui.zip]]
+
+**Recent Changes**
+{{changes>ns = nui}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/nui|Ethnologue data]]
+
